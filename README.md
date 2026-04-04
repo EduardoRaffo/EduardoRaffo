@@ -1,8 +1,8 @@
 # Hi, I'm Eduardo Raffo 👋
 
-**Python Developer (Junior)** — building real-world tools with Flask, Flet, and data automation.
+### Python Backend Developer (Junior) — building real-world tools with Flask, REST APIs, web scraping, and data automation.
 
-Currently open to my first professional role in backend or Python development.
+Currently open to my first professional role in **backend development** or **Python development**.
 
 ---
 
@@ -22,20 +22,20 @@ Currently open to my first professional role in backend or Python development.
 ## 🚀 Featured Projects
 
 ### 📊 [Flet Sales Manager](https://github.com/EduardoRaffo/flet-sales-manager)
-Desktop CRM app built with Flet (Python). Manages leads, clients, and sales pipeline with a clean Material Design UI. ~400 pytest tests. Clean architecture with 10+ layers.
+Desktop CRM app built with **Flet (Python)**. Manages leads, clients, and sales pipeline with a clean Material Design UI. ~400 `pytest` tests. Clean architecture with 10+ layers.
 
 ### 🕸️ [Wikipedia Scraper](https://github.com/EduardoRaffo/scraper-wikipedia-python)
-Python scraping tool that extracts structured data from Wikipedia. Modular architecture, JSON/CSV export, error handling, SQLite storage and automated tests.
+**Python web scraping** tool that extracts structured data from Wikipedia. Modular architecture, JSON/CSV export, error handling, SQLite storage, and automated tests.
 
 ### 👤 [User Management Web App](https://github.com/EduardoRaffo/final-test--web--json--flask)
-Flask CRUD application with full form validation, Tailwind CSS UI and separation of concerns (routes / data / validation).
+**Flask CRUD API** with full form validation, Tailwind CSS UI, and clear separation of concerns (routes / data / validation).
 
 ---
 
 ## 📈 Currently Working On
 
-- Deepening Python backend skills (REST APIs, SQLAlchemy)
-- Preparing for my first professional role
+- Deepening **Python backend** skills (REST APIs, SQLAlchemy)
+- Preparing for my first professional role in backend or Python development
 - Improving project documentation and test coverage
 
 ---
@@ -47,4 +47,4 @@ Flask CRUD application with full form validation, Tailwind CSS UI and separation
 
 ---
 
-*Open to junior Python roles — backend, automation, or data tooling.*
+*Open to junior Python backend roles — backend development, API development, automation, or data tooling. Feel free to reach out!*
