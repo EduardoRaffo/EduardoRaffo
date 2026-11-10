@@ -30,7 +30,7 @@ Desktop CRM app built with **Flet (Python)**. Manages leads, clients, and sales 
 ### 🕸️ [Wikipedia Scraper](https://github.com/EduardoRaffo/scraper-wikipedia-python)
 **Python web scraping** tool that extracts structured data from Wikipedia. Modular architecture, JSON/CSV export, error handling, SQLite storage, and automated tests.
 
-### 👤 [User Management Web App](https://github.com/EduardoRaffo/final-test--web--json--flask)
+### 👤 [User Management Web App](https://github.com/EduardoRaffo/flask-user-management)
 **Flask CRUD API** with full form validation, Tailwind CSS UI, and clear separation of concerns (routes / data / validation).
 
 ---
