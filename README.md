@@ -25,7 +25,7 @@ Currently open to my first professional role in **backend development** or **Pyt
 **REST API** built with **FastAPI** and SQLite. Pydantic validation, full CRUD, and 9 `pytest` tests running on an isolated temporary database.
 
 ### 📊 [Flet Sales Manager](https://github.com/EduardoRaffo/flet-sales-manager)
-Desktop CRM app built with **Flet (Python)**. Manages leads, clients, and sales pipeline with a clean Material Design UI. ~400 `pytest` tests. Clean architecture with 10+ layers.
+Desktop CRM app built with **Flet (Python)**. Manages leads, clients, and sales pipeline with a clean Material Design UI. ~400 `pytest` tests. Layered architecture.
 
 ### 🕸️ [Wikipedia Scraper](https://github.com/EduardoRaffo/scraper-wikipedia-python)
 **Python web scraping** tool that extracts structured data from Wikipedia. Modular architecture, JSON/CSV export, error handling, SQLite storage, and automated tests.
