@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Raffo 👋
 
-### Python Backend Developer (Junior) — building real-world tools with Flask, REST APIs, web scraping, and data automation.
+### Python Backend Developer — building real-world tools with Flask, FastAPI, REST APIs, web scraping, and data automation.
 
 Currently open to my first professional role in **backend development** or **Python development**.
 
@@ -9,7 +9,7 @@ Currently open to my first professional role in **backend development** or **Pyt
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
-`Python` `Flask` `Flet` `HTML` `Jinja2`
+`Python` `FastAPI` `Flask` `Flet` `Pydantic` `HTML` `Jinja2`
 
 **Data & Storage**
 `SQLite` `JSON` `BeautifulSoup` `Polars`
@@ -20,6 +20,9 @@ Currently open to my first professional role in **backend development** or **Pyt
 ---
 
 ## 🚀 Featured Projects
+
+### 🗂️ [Job Tracker API](https://github.com/EduardoRaffo/job-tracker-practice)
+**REST API** built with **FastAPI** and SQLite. Pydantic validation, full CRUD, and 9 `pytest` tests running on an isolated temporary database.
 
 ### 📊 [Flet Sales Manager](https://github.com/EduardoRaffo/flet-sales-manager)
 Desktop CRM app built with **Flet (Python)**. Manages leads, clients, and sales pipeline with a clean Material Design UI. ~400 `pytest` tests. Clean architecture with 10+ layers.
@@ -34,7 +37,7 @@ Desktop CRM app built with **Flet (Python)**. Manages leads, clients, and sales 
 
 ## 📈 Currently Working On
 
-- Deepening **Python backend** skills (REST APIs, SQLAlchemy)
+- Deepening **Python backend** skills (REST APIs with FastAPI, SQLAlchemy)
 - Preparing for my first professional role in backend or Python development
 - Improving project documentation and test coverage
 
