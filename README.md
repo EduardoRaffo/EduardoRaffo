@@ -15,23 +15,23 @@ Currently open to my first professional role in **backend development** or **Pyt
 `SQLite` `JSON` `BeautifulSoup` `Polars`
 
 **Testing & Tools**
-`pytest` `Git` `GitHub` `Tailwind CSS`
+`pytest` `Docker` `GitHub Actions` `Git` `GitHub` `Tailwind CSS`
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🗂️ [Job Tracker API](https://github.com/EduardoRaffo/job-tracker-practice)
-**REST API** built with **FastAPI** and SQLite. Pydantic validation, full CRUD, and 9 `pytest` tests running on an isolated temporary database.
+**REST API** built with **FastAPI** and SQLite. Pydantic validation, full CRUD, and 9 `pytest` tests running on an isolated temporary database. Containerized with **Docker** (data persisted in a volume) and tested on every push with **GitHub Actions** CI.
 
 ### 📊 [Flet Sales Manager](https://github.com/EduardoRaffo/flet-sales-manager)
 Desktop CRM app built with **Flet (Python)**. Manages leads, clients, and sales pipeline with a clean Material Design UI. ~400 `pytest` tests. Layered architecture.
 
 ### 🕸️ [Wikipedia Scraper](https://github.com/EduardoRaffo/scraper-wikipedia-python)
-**Python web scraping** tool that extracts structured data from Wikipedia. Modular architecture, JSON/CSV export, error handling, SQLite storage, and automated tests.
+**Python web scraping** script that extracts a Wikipedia table with BeautifulSoup, cleans the data and stores it in SQLite, with a console menu to query the results.
 
 ### 👤 [User Management Web App](https://github.com/EduardoRaffo/flask-user-management)
-**Flask CRUD API** with full form validation, Tailwind CSS UI, and clear separation of concerns (routes / data / validation).
+**Flask CRUD web app** with form validation, JSON persistence, Tailwind CSS UI, and clear separation of concerns (routes / data / validation).
 
 ---
 
